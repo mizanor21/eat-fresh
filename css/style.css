@@ -74,6 +74,7 @@ body {
 
 .recipies_area {
     text-align: center;
+    margin-top: 100px;
 }
 
 .recipies_area h1 {
@@ -123,4 +124,43 @@ body {
     margin-top: 100px;
     margin-left: 35px;
     margin-right: 130px;
+}
+
+.social_activity {
+    box-shadow: 10px 10px 40px rgb(175, 173, 173);
+    border-radius: 10px;
+    margin: 130px;
+    padding: 80px;
+}
+
+.social_activity h1 {
+    font-size: 60px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.social_activity p {
+    font-size: 25px;
+    color: gray;
+
+}
+
+.contant_divide_width {
+    width: 33.33%;
+    text-align: center;
+}
+
+.footer_area {
+    text-align: center;
+    background-color: black;
+    padding: 50px;
+}
+
+.footer_area h1 {
+    font-size: 50px;
+}
+
+.footer_area p {
+    font-size: 25px;
+    color: rgb(156, 153, 153);
 }
