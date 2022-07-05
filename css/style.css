@@ -84,3 +84,43 @@ body {
     font-size: 25px;
     color: gray;
 }
+
+.recipies_item img {
+    width: 100%;
+    height: 350px;
+}
+
+.recipies_item {
+    box-shadow: 10px 10px 40px rgb(192, 190, 190);
+    border-radius: 10px;
+    width: 50%;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-right: 50px;
+    text-align: justify;
+
+}
+
+.recipies_item h1 {
+    font-size: 50px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.recipies_item p {
+    color: grey;
+    font-size: 25px;
+    line-height: 40px;
+    letter-spacing: 2px;
+}
+
+#item1 {
+    margin-top: 100px;
+    margin-left: 130px;
+}
+
+#item2 {
+    margin-top: 100px;
+    margin-left: 35px;
+    margin-right: 130px;
+}
